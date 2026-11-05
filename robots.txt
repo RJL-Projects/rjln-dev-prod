@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rjln.dev/sitemap.xml
