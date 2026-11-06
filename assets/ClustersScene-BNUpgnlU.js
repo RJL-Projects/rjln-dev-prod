@@ -1,4 +1,4 @@
-import{a as e,l as t,n,r,t as i,u as a}from"./SceneCanvas-CQi5sDvk.js";import{K as o,U as s,V as c,Y as l,a as u,c as d,i as f,n as p,o as m,r as h,s as g,t as _,z as v}from"./index-DvbT39jj.js";var y=l(o(),1),b=`
+import{a as e,l as t,n,r,t as i,u as a}from"./SceneCanvas-C1p9BY1n.js";import{K as o,U as s,V as c,Y as l,a as u,c as d,i as f,n as p,o as m,r as h,s as g,t as _,z as v}from"./index-BWPybvPH.js";var y=l(o(),1),b=`
   attribute vec3 noise;
   attribute vec3 tint;
   attribute float delay;
